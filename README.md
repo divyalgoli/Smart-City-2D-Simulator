@@ -7,10 +7,11 @@ The project demonstrates core 2D computer-graphics concepts through a keyboard-c
 ## 📸 Output Screenshots
 
 ### ☀️ Day Mode
-![SMART CITY simulator in Day Mode](assets/day-mode.png)
+<img width="1360" height="765" alt="Screenshot 2026-10-23 201049" src="https://github.com/user-attachments/assets/af2d3e58-c8c8-4c3f-89de-db11e0aaf045" />
 
 ### 🌙 Night Mode
-![SMART CITY simulator in Night Mode](assets/night-mode.png)
+<img width="1360" height="768" alt="Screenshot 2026-10-23 201113" src="https://github.com/user-attachments/assets/47ab129f-e18c-4caf-bcc0-7e82306edbbd" />
+
 
 ## ✨ Features
 
